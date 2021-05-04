@@ -20,7 +20,7 @@ Cette application est basée sur les services métiers :
 L'orchestration des services se fait via les services techniques : 
 
 •	Microservice eureka-discovery, basé sur Spring Cloud Discovery Eureka : pour le service annuaire d'enregistrement et de découverte 
-  des services de l'application.
+   des services de l'application.
 
 •	Microservice gateway, basé sur Spring Cloud Gateway : pour le service de proxy. Dans lequel, on montre comment configurer 
   Spring Cloud Gateway avec trois manières :
