@@ -1,5 +1,5 @@
 # ManageServices-SpringCloud-Gateway-Eureka
-Java, Spring [ Boot, Cloud Gateway, Cloud Discovery Eureka (Client &amp; Server), Data, Web, HATEOAS], Rest Repositories , MySQL
+
 
 Dans cette Démo, on montre comment gérer des micro-services avec Spring Cloud Gateway et Eureka Discovery.
 
