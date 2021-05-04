@@ -23,9 +23,11 @@ L'orchestration des services se fait via les services techniques :
 •	Microservice gateway, basé sur Spring Cloud Gateway : pour le service de proxy. Dans lequel, on montre comment configurer Spring Cloud Gateway avec trois manières :
 
     1. Approche statique, en utilisant : Un fichier yaml pour le routage et une classe de configuration.
-    2. Approche statique, via : Le service Eureka server, qui permet d’enregistrer automatiquement les noms des microservices démarrés à partir d’une configuration.
-    3. Approche dynamique : Création d'une configuration avec DiscoveryClientRouteDefinitionLocator.  Elle va récupérer le nom du microservice, contenu dans l’URL, 
-       et contact l'annuaire afin de récupérer toutes les informations du service (l’adresse IP et le numéro de port).
+    2. Approche statique, via : Le service Eureka server, qui permet d’enregistrer automatiquement les noms des microservices 
+       démarrés à partir d’une configuration.
+    3. Approche dynamique : Création d'une configuration avec DiscoveryClientRouteDefinitionLocator.   
+       Elle va récupérer le nom du microservice, contenu dans l’URL, et contact l'annuaire afin de récupérer toutes les informations 
+       du service (l’adresse IP et le numéro de port).
 
 
 URLs :
