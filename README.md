@@ -42,9 +42,7 @@ URLs :
   http://localhost:8888/CUSTOMER-SERVICE/customers
   
   http://localhost:8888/PRODUCT-SERVICE/products
-  
-  http://localhost:8888/PRODUCT-SERVICE/products?page=0&size=4
-  
+    
   http://localhost:8888/ORDER-SERVICE/orders
 
 
