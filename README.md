@@ -65,4 +65,4 @@ URLs :
 
 -	Service product :
 
-  http://localhost:8082/products/
+  http://localhost:8082/products/ 
