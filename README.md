@@ -3,7 +3,7 @@
 
 Dans cette Démo, on montre comment gérer des micro-services avec Spring Cloud Gateway et Eureka Discovery.
 
-Cette application est basée sur les services métiers :
+Cette application est basée sur les services métiers : 
 
   •	Microservice Client : customer-service, pour gérer les clients.
   
